@@ -1,7 +1,6 @@
 package com.ram.singleton;
 
 import lombok.Getter;
-import lombok.Setter;
 
 /*
 Using a single-element enum is widely considered the best way to write a Singleton in Java.
